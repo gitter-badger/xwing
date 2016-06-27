@@ -1,6 +1,8 @@
 (Yet Another) X-Wing Miniatures Squad Builder
 =============================================
 
+[![Join the chat at https://gitter.im/cbmainz/xwing](https://badges.gitter.im/cbmainz/xwing.svg)](https://gitter.im/cbmainz/xwing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/geordanr/xwing.png)](https://travis-ci.org/geordanr/xwing)
 
 What?
